@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1ZKG4/iEDGQfexgvx4HvR8YeKzvlqEZPwE0/G+qRX/s=",
+  "Source": "apikeys_app",
+  "BasePath": "_content/apikeys_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CTYB1w2hmIl2Lg+PK4/4DnkUDREWkhb4KFZ9zNtLA1Q=",
+  "Source": "auth_app",
+  "BasePath": "_content/auth_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

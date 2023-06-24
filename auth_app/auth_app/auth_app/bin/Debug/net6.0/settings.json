@@ -1,0 +1,13 @@
+{
+    "Jwt": {
+        "Key": "c849f148-4624-11ed-b878-0242ac120002",
+        "Issuer": "https://localhost:55000",
+        "Audience": "https://localhost:55000"
+    },
+    "Postgres": {
+        "Host": "host.docker.internal",
+        "Username": "root",
+        "Password": "root",
+        "Database": "wbanalytics_dev"
+    }
+}
